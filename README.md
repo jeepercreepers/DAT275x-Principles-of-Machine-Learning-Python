@@ -1,2 +1,2 @@
-# DAT275x-Principles-of-Machine-Learning-Python
-EDX Course Work
+# Principles-of-Machine-Learning-Python
+Principles of Machine Learning Python
